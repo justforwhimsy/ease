@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 .lo{
@@ -12,4 +13,15 @@
 
 .card{
 	background-color: #c2e1e6;
+=======
+/* CSS declarations go here */
+
+.row {
+    margin-bottom: 800px !important;    /* padding for individual elements */
+    height: 100% !important;
+}
+
+.card-action {
+    text-align: center;
+>>>>>>> codeVana/master
 }
