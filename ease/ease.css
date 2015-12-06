@@ -1,1 +1,15 @@
-/* CSS declarations go here */
+
+
+.lo{
+	background-color:#4a4c61;
+	color: #ffcd8e !important;
+	}
+
+.ro{
+	background-color:#ffcd8e;
+	color:#4a4c61 !important;
+	}
+
+.card{
+	background-color: #c2e1e6;
+}
